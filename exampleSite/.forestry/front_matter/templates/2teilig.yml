@@ -9,3 +9,9 @@ fields:
   label: Testlabel
   description: test<strong>test <em>test</em></strong>
   hidden: false
+- name: testphoto
+  type: file
+  config:
+    maxSize: 64
+  label: Testphoto
+  description: testbeschreibung
