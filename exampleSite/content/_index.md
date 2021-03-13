@@ -1,5 +1,6 @@
 ---
-title: Your Name
-description: A great human
-background: "images/bg.jpg"
+title: krypto.dance
+description: Safer Phones, Kryptografie, Opsec, Privacy
+background: images/bg.jpg
+
 ---
