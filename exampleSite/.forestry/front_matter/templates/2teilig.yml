@@ -1,4 +1,11 @@
 ---
 label: 2teilig
 hide_body: false
-fields: []
+fields:
+- name: testlabel
+  type: text
+  config:
+    required: false
+  label: Testlabel
+  description: test<strong>test <em>test</em></strong>
+  hidden: false
